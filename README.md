@@ -106,14 +106,25 @@ age(rahul, 19).
 
 ## Sample Queries
 ?- student(bhavishya).
+
 Output:
+
 true.
+
 ?- student(X).
+
 Output:
+
 X = bhavishya ;
+
 X = rahul.
+
 ?- age(bhavishya, X).
+
 Output:
+
 X = 20.
+
 Result
+
 Thus, facts, objects, predicates, and variables in PROLOG were studied successfully.
