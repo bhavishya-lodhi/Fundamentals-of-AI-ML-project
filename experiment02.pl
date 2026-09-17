@@ -1,4 +1,4 @@
-# 6. Experiment 2
+# Experiment 2
 
 ## Aim
 
