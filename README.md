@@ -102,7 +102,9 @@ likes(rahul, ai).
 
 age(bhavishya, 20).
 age(rahul, 19).
-Sample Queries
+```
+
+## Sample Queries
 ?- student(bhavishya).
 Output:
 true.
@@ -113,5 +115,5 @@ X = rahul.
 ?- age(bhavishya, X).
 Output:
 X = 20.
-#Result
+Result
 Thus, facts, objects, predicates, and variables in PROLOG were studied successfully.
