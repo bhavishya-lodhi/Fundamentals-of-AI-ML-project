@@ -128,3 +128,6 @@ X = 20.
 Result
 
 Thus, facts, objects, predicates, and variables in PROLOG were studied successfully.
+
+## CERTIFICATE_AI&ML 
+link:-  https://admin.vityarthi.com/certificate/s0i6MUg8DtTj
